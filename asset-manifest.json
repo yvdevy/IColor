@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/IColor/static/css/main.bf21bf3b.chunk.css",
-    "main.js": "/IColor/static/js/main.e2783788.chunk.js",
-    "main.js.map": "/IColor/static/js/main.e2783788.chunk.js.map",
+    "main.js": "/IColor/static/js/main.a9491ba2.chunk.js",
+    "main.js.map": "/IColor/static/js/main.a9491ba2.chunk.js.map",
     "runtime-main.js": "/IColor/static/js/runtime-main.41a0bca0.js",
     "runtime-main.js.map": "/IColor/static/js/runtime-main.41a0bca0.js.map",
     "static/js/2.543753dc.chunk.js": "/IColor/static/js/2.543753dc.chunk.js",
     "static/js/2.543753dc.chunk.js.map": "/IColor/static/js/2.543753dc.chunk.js.map",
     "index.html": "/IColor/index.html",
-    "precache-manifest.e7db5e7d384452c5d1ee43109aebef3f.js": "/IColor/precache-manifest.e7db5e7d384452c5d1ee43109aebef3f.js",
+    "precache-manifest.5de47fd5eb8619a71dd4001a6abfee19.js": "/IColor/precache-manifest.5de47fd5eb8619a71dd4001a6abfee19.js",
     "service-worker.js": "/IColor/service-worker.js",
     "static/css/main.bf21bf3b.chunk.css.map": "/IColor/static/css/main.bf21bf3b.chunk.css.map",
     "static/js/2.543753dc.chunk.js.LICENSE.txt": "/IColor/static/js/2.543753dc.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.41a0bca0.js",
     "static/js/2.543753dc.chunk.js",
     "static/css/main.bf21bf3b.chunk.css",
-    "static/js/main.e2783788.chunk.js"
+    "static/js/main.a9491ba2.chunk.js"
   ]
 }
