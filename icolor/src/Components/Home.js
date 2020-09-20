@@ -4,7 +4,7 @@ import './Home.css'
 export default function Home() {
     return (
         <div className="home">
-            <div className="icolor_banner">I Colorabc</div>
+            <div className="icolor_banner">I Color7</div>
         </div>
     )
 }
